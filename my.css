@@ -1,0 +1,269 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+#title {
+  background-color: #000000;
+}
+
+}
+.container {
+  padding: 3% 15%;
+
+
+}
+
+
+
+h1,h2,h3{
+
+font-family: 'Dancing Script', cursive;
+color: #fbf7f0;
+
+
+}
+.titleimg {
+
+	max-width: 25rem;
+    max-height: 25rem;
+    padding-bottom: 1rem;
+    align-items: center;
+    
+
+
+
+}
+
+.foot{
+  font-size:15px;
+  margin-top: 10px;
+
+}
+.p{
+
+  font-family: 'Caladea', serif;
+  color: #fbf7f0;
+}
+
+.navbar {
+  padding-bottom:
+}
+
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  margin-top: 10px;
+}
+
+.nav-item {
+  padding: 0 18px 18px 0;
+}
+
+.ticon {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.timg {
+	width: 35rem;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+.row {
+	background-color: #000;
+  padding-top: 2.5rem;
+}
+
+.nav-link {
+  font-family: cursive;
+  font-size: 1rem;
+  margin-top: 45px;
+}
+
+.big-heading {
+	padding-bottom: 2rem;
+  font-family: 'Dancing Script', cursive;
+  color: #f6f5f5;
+  margin-right:80rem;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align:20px;
+}
+.big-heading1{
+font-family: 'Dancing Script', cursive;
+  color: #f6f5f5;
+  margin-left:3rem;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align:20px;
+}
+}
+
+.Download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+/*title*/
+/* features*/
+#features {
+  padding: 7% 15%;
+  background-color: #000;
+  text-align: center;
+
+
+
+
+}
+
+.features-section{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 1.5rem;
+}
+
+.features-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/*testimonials*/
+#Education {
+  font-family: 'Dancing Script', cursive;
+  color: #f6f5f5;
+	padding-bottom: 3rem;
+  background-color: #000;
+  padding-top: 3rem;
+  text-align: center;
+
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.section-heading{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 35rem;
+  border-radius: 10%;
+  margin: 20px;
+}
+
+.testimonial-text {
+  padding-bottom: 2rem;
+}
+#press {
+  background-color: #e7305b;
+  padding-bottom: 3%;
+  text-align: center;
+}
+/*testimonials*/
+
+#pricing {
+background-color: #0000;
+padding: 25px;
+text-align: center;
+
+}
+
+
+
+
+
+/*CTA*/
+
+#cta{
+  
+}
+
+
+}
+.tw{
+  margin:20px 10px;
+
+}
+
+/*footer*/
+#Projects{
+background-color: #000;
+padding-top: 5rem;
+padding-left: 12px;
+padding-bottom: 4rem;
+
+}
+/*email*/
+.email{
+	font-family: 'Dancing Script', cursive;
+  color: #f6f5f5;
+  font-size: 35px;
+  line-height: 1.5;
+  text-align:20px;
+  
+}
+.email:hover {
+  background-color: #eff7e1;
+}
+.para{
+	padding-top:5rem;
+	font-size:30px;
+}
+.t{
+	 font-family: 'Montserrat Subrayada', sans-serif;
+
+padding-bottom: 2rem;
+color:#000;}
+#Experience{
+	padding: 1rem;
+  background-color:#000;
+}		
+.fab{
+	padding:10px;}
+.date{
+	font-family: 'Caladea', serif;
+
+margin-top:5rem;
+margin-left:22rem; 
+}
+.fa-code{  
+  font-family: 'Dancing Script', cursive;
+
+  font-size: 2rem;
+  line-height: 1.5;
+	color:#f6f6f6;
+}
+.p{
+ font-family: 'Caladea', serif;
+margin-left: 4px;
+  font-size: 20px;
+  line-height: 1.5;
+  color:#fbf7f0;
+}
+.Experience{
+font-family: 'Caladea', serif;
+}
+.Experience1{
+	font-family: 'Caladea', serif;
+
+}
+.Projects1{
+		font-family: 'Caladea', serif;
+
+
+}
+.skills1{
+			font-family: 'Caladea', serif;
+			padding-bottom: 1rem;
+}
